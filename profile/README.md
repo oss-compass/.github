@@ -11,7 +11,7 @@ We provide a public SaaS platform [OSS Compass](https://oss-compass.org/) for op
 
 ## Quick Start
 
-[OSS Compass](https://oss-compass.org/)
+[Quick Start](https://oss-compass.org/docs/quick-start)
 
 ## Communication
 
