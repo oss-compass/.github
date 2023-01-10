@@ -15,4 +15,4 @@ We provide a public SaaS platform [OSS Compass](https://oss-compass.org/) for op
 
 ## Communication
 
-We have multiple communication channels such as chat, issues, etc. You can refer to [this page](https://github.com/oss-compass/community/tree/main/communication).
+We have multiple communication channels such as chat, issues, etc. You can refer to [this page](https://github.com/oss-compass/community).
